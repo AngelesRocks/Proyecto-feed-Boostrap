@@ -1,0 +1,23 @@
+@font-face {
+    font-family: roboto;
+    src: url(Roboto.ttf);
+}
+
+body {
+    font-family: 'roboto';
+    font-size: medium;
+}
+
+.icon {
+    width: 30px;
+}
+
+
+.nav-control {
+    padding: 5px 50px;
+}
+
+#number-photo {
+    float: right;
+
+}
